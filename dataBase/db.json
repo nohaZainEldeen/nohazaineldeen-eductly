@@ -1,0 +1,41 @@
+{
+  "Employees": [
+    {
+      "id": 1,
+      "fullName": "noha",
+      "arrivalTime": "08:00",
+      "exitTime": "16:00",
+      "LunchBreakTime": "12:00",
+      "LunchBreakTime2": "12:30"
+    },
+    {
+      "errors": {},
+      "fullName": "noha zaineldeen",
+      "arrivalTime": "07:47",
+      "exitTime": "18:47",
+      "LunchBreakTime": "17:47",
+      "LunchBreakTime2": "18:31",
+      "id": 2
+    },
+    {
+      "fullName": "mohammed zaineldeen",
+      "arrivalTime": "09:30",
+      "exitTime": "18:28",
+      "LunchBreakTime": "12:25",
+      "LunchBreakTime2": "13:00",
+      "errors": {
+        "fullName": "Name is not allowed to be empty"
+      },
+      "id": 3
+    },
+    {
+      "fullName": "noha",
+      "arrivalTime": "07:47",
+      "exitTime": "19:00",
+      "LunchBreakTime": "17:47",
+      "LunchBreakTime2": "18:30",
+      "errors": {},
+      "id": 4
+    }
+  ]
+}
